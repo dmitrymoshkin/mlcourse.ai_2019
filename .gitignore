@@ -1,0 +1,20 @@
+
+catboost_info/catboost_training.json
+catboost_info/fold_0_learn/events.out.tfevents
+catboost_info/fold_0_learn_error.tsv
+catboost_info/fold_0_test/events.out.tfevents
+catboost_info/fold_0_test_error.tsv
+catboost_info/fold_0_time_left.tsv
+catboost_info/fold_1_learn/events.out.tfevents
+catboost_info/fold_1_test/events.out.tfevents
+catboost_info/fold_2_learn/events.out.tfevents
+catboost_info/fold_2_test/events.out.tfevents
+catboost_info/fold_3_learn/events.out.tfevents
+catboost_info/fold_3_test/events.out.tfevents
+catboost_info/learn/events.out.tfevents
+catboost_info/learn_error.tsv
+catboost_info/test/events.out.tfevents
+catboost_info/test_error.tsv
+catboost_info/time_left.tsv
+.ipynb_checkpoints/mlcourse.ai. Fall 2019. Catboost starter-checkpoint.ipynb
+.ipynb_checkpoints/assignment2_part1_decision_trees-checkpoint.ipynb
